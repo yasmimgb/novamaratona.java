@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 import javax.print.DocFlavor.INPUT_STREAM;
 
-public class URI_1151 {
+public class MyClass {
 
 	public static void main(String[] args) {
 		int n1=0,n2=1,n3,i,N; 
